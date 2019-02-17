@@ -94,5 +94,5 @@ function Map() {
 var map=new Map();
 //放入值
 map.put("key","value");
-//删除
+//删除 //
 map.remove("key");s
